@@ -1,2 +1,2 @@
-TOKEN = '9282612003:AAEHya9Z___CFd1psAdSGdIAgETRUJ__jdg'
+TOKEN = 'Yuor_Telegram_Bot_Token_Here'
 DATABASE = 'calories.db'
