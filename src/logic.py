@@ -1,5 +1,5 @@
 import sqlite3
-from Database.config import DATABASE
+from config import DATABASE
 
 class FoodDatabase:
 
