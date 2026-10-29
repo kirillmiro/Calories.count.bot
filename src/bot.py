@@ -1,6 +1,6 @@
 import telebot
-from config import DATABASE, TOKEN
-from logic import FoodDatabase
+from Database.config import DATABASE, TOKEN
+from src.logic import FoodDatabase
 
 bot = telebot.TeleBot(TOKEN)
 db = FoodDatabase(DATABASE)
