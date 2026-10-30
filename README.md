@@ -1,7 +1,7 @@
 
-# 🥗 Calories-count.bot
+# 🥗 Calories.count.bot
 
-**Calories-count.bot** — Telegram-бот для подсчёта калорий и отслеживания питания. Помогает вести учёт ежедневного рациона и контролировать потребление калорий.
+**Calories.count.bot** — Telegram-бот для подсчёта калорий и отслеживания питания. Помогает вести учёт ежедневного рациона и контролировать потребление калорий.
 
 ## 🚀 Установка и запуск
 
@@ -11,7 +11,7 @@
 
 ```bash
 git clone <REPOSITORY_URL>
-cd Calories-count.bot
+cd Calories.count.bot
 ```
 
 ### 2. Установка зависимостей
@@ -65,4 +65,4 @@ python bot.py
 
 ---
 
-**Calories-count.bot** 🥗
+**Calories.count.bot** 🥗
